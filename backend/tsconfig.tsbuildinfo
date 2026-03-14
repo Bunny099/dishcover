@@ -1,1 +1,1 @@
-{"root":["./src/index.ts"],"version":"5.9.3"}
+{"root":["./src/app.ts","./src/index.ts","./src/controllers/cityController.ts","./src/controllers/dishController.ts","./src/routes/cityRoute.ts","./src/routes/dishRoute.ts","./src/services/cityService.ts","./src/services/dishService.ts","./src/services/geminiService.ts","./src/services/lingoService.ts","./src/utils/myCityPrompt.ts","./src/utils/myDishPrompt.ts","./src/utils/zod/schema.ts"],"version":"5.9.3"}
